@@ -2,4 +2,5 @@
 Hands-on Test Driven Development Katas in dart
 
 ## Katas
-[Tic Tac Toe Checker](https://github.com/iamrohitsuthar/TDD-practice-katas/tree/master/tic_tac_toe_checker)
+[Tic Tac Toe Checker](https://github.com/iamrohitsuthar/TDD-practice-katas/tree/master/tic_tac_toe_checker)<br/>
+[String Calculator](https://github.com/iamrohitsuthar/TDD-practice-katas/tree/master/string_calculator)
